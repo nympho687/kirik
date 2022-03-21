@@ -3000,7 +3000,6 @@ function Start() {
     CheckV4
     if [[ "$isv4" -eq 1 ]]; then
         Global_UnlockTest 4
-        OA_UnlockTest 4
     fi
 }
 Start
