@@ -2786,7 +2786,7 @@ function JP_UnlockTest() {
 
 function Global_UnlockTest() {
     echo ""
-    echo "============[ Multination ]============"
+    echo "==============[ SAMVPN ]==============="
     MediaUnlockTest_Dazn ${1}
     MediaUnlockTest_HotStar ${1}
     MediaUnlockTest_DisneyPlus ${1}
